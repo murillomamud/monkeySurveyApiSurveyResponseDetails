@@ -1,0 +1,5 @@
+config.json
+.venv
+__pycache__
+details.json
+responses.json
