@@ -10,3 +10,13 @@ source .venv/bin/activate
 pip install requirements.txt
 python main.py
 ```
+
+##Config JSON Example:
+```
+{
+    "client_id" : "YOUR_CLIENT",
+    "secret": "YOUR_SECRET",
+    "access_token" : "YOUR_TOKEN",
+    "survey_id" : YOUR_SURVEY_ID
+}
+```
