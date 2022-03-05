@@ -11,7 +11,7 @@ pip install requirements.txt
 python main.py
 ```
 
-##Config JSON Example:
+## Config JSON Example:
 ```
 {
     "client_id" : "YOUR_CLIENT",
