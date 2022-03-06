@@ -15,7 +15,7 @@ if __name__ == "__main__":
     SURVEY_ID = config['survey_id']
     
 
-    ###REMOVE THS COMMENTS FROM LINES ABOVE TO FETCH NEW ANSWERS:
+    ###REMOVE THE COMMENTS FROM LINES ABOVE TO FETCH NEW ANSWERS:
     """
     ##Instantiate class with credentials
     api = api.SurveyResults(ACCESS_TOKEN)
@@ -65,7 +65,7 @@ if __name__ == "__main__":
             counter = 99
         counter += 1
     """
-    
+
     #Mapping Responses Texts
     counter = 0
 
