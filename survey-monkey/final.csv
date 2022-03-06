@@ -1,0 +1,6 @@
+,survey_id,answer_id,response_status,date_created,name,age,like_1,like_2,like_3,food
+0,318748418,13375892498,completed,2022-03-05T11:17:58+00:00,Murillo Mamud,25-34,ice cream,corinthians,,sushi
+1,318748418,13376056581,completed,2022-03-05T14:12:42+00:00,Pedro,Under 18,dog,,,aubergine
+2,318748418,13376056856,completed,2022-03-05T14:12:58+00:00,Juca,35-44,dog,ice cream,,noodle
+3,318748418,13376229411,completed,2022-03-05T16:47:06+00:00,Leoncio,65+,corinthians,,,pizza
+4,318748418,13376706753,completed,2022-03-06T01:39:24+00:00,Lucas,Under 18,corinthians,ice cream,dog,

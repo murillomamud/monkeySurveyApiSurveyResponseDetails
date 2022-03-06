@@ -50,9 +50,9 @@ class SurveyResults(ApiCall):
                          for d in choices]                    
                 else:
                     
-                    choices = []
+                    choices_result = [{'position':1}]
 
-                answer = {'id':question['id'], 'question': title, 'choices': choices_result}
+                answer = {'id_question':question['id'], 'question': title, 'choices': choices_result}
 
                 results.append(answer)
         
